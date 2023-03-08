@@ -9,6 +9,4 @@
 
 ### [Q&A](FAQ.md)
 
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
+### [基板・回路図]( )
