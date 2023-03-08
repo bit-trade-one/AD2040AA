@@ -1,4 +1,4 @@
-# ADXXXXX-Template
+# AD2040AA
 
 ![製品画像]()
 
@@ -6,12 +6,6 @@
 
 
 ## [製品HPリンク](http://bit-trade-one.co.jp/) 
-
-### [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
-### [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-### [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
 
 ### [Q&A](FAQ.md)
 
