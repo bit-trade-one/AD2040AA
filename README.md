@@ -1,4 +1,4 @@
-# AD2040AA
+# AD2040AA  Raspberry Pi Pico 単3電池拡張ボード
 
 ![製品画像](https://bit-trade-one.co.jp/wp/wp-content/uploads/2023/04/515-2.jpg)
 
